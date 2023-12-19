@@ -1,0 +1,66 @@
+
+
+.opening-image {
+    height: 100px;
+    width: 100%;
+background-color:black;
+text-decoration: none;
+
+}
+.opening-image-content{
+    color: purple;
+}
+
+.disposizione{
+    display: flex;
+align-items: center;
+justify-content: space-around;
+height: 100%;
+}
+
+.logo{
+    height: 100px;
+    width: 100px;
+}
+
+.opening.title2{
+text-align: center;
+}
+
+.card{
+    min-height: 300px;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 100px;
+    background-color:whitesmoke;
+    }
+    .card-img{
+        height: 190px;
+        width: 470px;
+        margin: 0 auto;
+
+    
+    }
+    
+    .cards-wrapper{
+        display: flex;
+        justify-content: space-around;
+    
+    }
+
+
+    .footer{
+height: 500px;
+width: 100%;
+background-color:black;
+text-decoration-color: white;
+
+
+    }
+
+    .footer-color{
+        background-color:black;
+    }
+
